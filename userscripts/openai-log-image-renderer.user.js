@@ -6,6 +6,7 @@
 // @match        https://platform.openai.com/*
 // @run-at       document-idle
 // @grant        none
+// @license      MIT
 // ==/UserScript==
 
 (function () {
