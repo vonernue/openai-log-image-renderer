@@ -1,7 +1,8 @@
 // ==UserScript==
 // @name         OpenAI Log Image Renderer
+// @author       Vonernue
 // @namespace    https://platform.openai.com/
-// @version      0.1.8
+// @version      0.1.9
 // @description  Render conversation images inline in OpenAI platform conversation logs.
 // @match        https://platform.openai.com/*
 // @run-at       document-idle
